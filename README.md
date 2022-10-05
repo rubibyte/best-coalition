@@ -11,7 +11,7 @@ git clone https://github.com/xavirubi/best-coalition.git
 ## Add alias
 Add an alias to your shell configuration file (e.g: ~/.zshrc):
 ```bash
-Alias bestcoalition="zsh file_path"
+alias bestcoalition="zsh file_path"
 ```
 An example of a **file_path** would be: */home/usr/best-coalition/bestcoalition.sh*
 
