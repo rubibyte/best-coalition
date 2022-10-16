@@ -24,7 +24,7 @@ TETRIS="
           ${R}###${N}     ${O}##########${N}     ${Y}###${N}     ${G}###    ###${N}  ${C}###########${N}  ${P}########${N}  
 
 "     
-echo -e ${TETRIS}     
+echo ${TETRIS}     
 
 
 #src=http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
